@@ -1,8 +1,8 @@
 //= require jquery3
 //= require popper
 //= require bootstrap-sprockets
-//= require bootstrap
 
 import "@hotwired/turbo-rails"
+Turbo.session.drive = false
 import "./controllers"
-import * as bootstrap from "bootstrap"
+// import * as bootstrap from "bootstrap"
