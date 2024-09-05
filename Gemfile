@@ -48,7 +48,7 @@ gem "bootsnap", require: false
 gem "bigdecimal"
 gem "mutex_m"
 gem 'bootstrap', '~> 5.3.3'
-gem "dartsass-sprockets"
+# gem "dartsass-sprockets"
 gem "propshaft"
 gem "importmap-rails"
 # Use Sass to process CSS
